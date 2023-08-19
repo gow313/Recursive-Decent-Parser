@@ -1,3 +1,9 @@
+//Sample Input:
+//3
+//S->eAg
+//A->ij
+//A->i
+
 #include <iostream>
 #include <string.h>
 using namespace std;
