@@ -1,4 +1,4 @@
-//Sample Input:
+//This is the Production I created  program:
 //3
 //S->eAg
 //A->ij
